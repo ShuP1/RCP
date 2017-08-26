@@ -4,7 +4,7 @@ using Microsoft.Xna.Framework;
 using Microsoft.Xna.Framework.Graphics;
 using Microsoft.Xna.Framework.Input;
 
-namespace Client.GUI
+namespace RCP.Client.GUI
 {
 	/// <summary>
 	/// This is the main type for your game.

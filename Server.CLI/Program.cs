@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace Server.CLI
+namespace RCP.Server.CLI
 {
 	class MainClass
 	{

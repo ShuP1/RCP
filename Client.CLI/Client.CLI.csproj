@@ -5,7 +5,7 @@
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
     <ProjectGuid>{A347831A-AD3C-4993-BE42-E4704C20182E}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>Client.CLI</RootNamespace>
+    <RootNamespace>RCP.Client.CLI</RootNamespace>
     <AssemblyName>Client.CLI</AssemblyName>
     <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
   </PropertyGroup>
@@ -38,7 +38,7 @@
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="..\Client\Client.csproj">
-      <Project>{2F1A160E-AD9C-49AA-9278-E57077D59291}</Project>
+      <Project>{A5F2F2C7-AEE3-454A-A161-39D12949F121}</Project>
       <Name>Client</Name>
     </ProjectReference>
   </ItemGroup>

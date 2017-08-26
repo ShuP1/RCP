@@ -11,7 +11,7 @@ using UIKit;
 #endif
 #endregion
 
-namespace Client.GUI
+namespace RCP.Client.GUI
 {
 #if __IOS__ || __TVOS__
     [Register("AppDelegate")]

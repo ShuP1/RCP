@@ -6,7 +6,7 @@
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
     <ProjectGuid>{7239BF4D-EB71-44BC-8BB6-FE9C27B9392E}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>Client.GUI</RootNamespace>
+    <RootNamespace>RCP.Client.GUI</RootNamespace>
     <AssemblyName>Client.GUI</AssemblyName>
     <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
     <MonoGamePlatform>DesktopGL</MonoGamePlatform>
@@ -88,7 +88,7 @@
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="..\Client\Client.csproj">
-      <Project>{2F1A160E-AD9C-49AA-9278-E57077D59291}</Project>
+      <Project>{A5F2F2C7-AEE3-454A-A161-39D12949F121}</Project>
       <Name>Client</Name>
     </ProjectReference>
   </ItemGroup>
